@@ -18,5 +18,5 @@ $npm install google-spreadsheet
 ## Running the program
 Run the program with:
 ```
-node index.js
+$node index.js
 ```
