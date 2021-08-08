@@ -1,4 +1,6 @@
 # Instructions
+Public Sheet link:
+https://docs.google.com/spreadsheets/d/1k2WL8lhCH_M2gDaDdE1OGw2c4lZj5n6VoevNr3wG4Wo
 
 ## Getting access to the Google API
 1. Create a project at https://console.cloud.google.com/
