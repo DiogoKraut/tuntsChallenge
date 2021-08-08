@@ -10,13 +10,13 @@ https://theoephraim.github.io/node-google-spreadsheet/#/getting-started/authenti
 ## NPM Setup
 Run the following commands
 
-`
+```
 $npm init
 $npm install google-spreadsheet
-`
+```
 
 ## Running the program
 Run the program with:
-`
+```
 node index.js
-`
+```
