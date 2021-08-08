@@ -1,4 +1,4 @@
-#How to run the code
+# Instructions
 
 ## Getting access to the Google API
 1. Create a project at https://console.cloud.google.com/
